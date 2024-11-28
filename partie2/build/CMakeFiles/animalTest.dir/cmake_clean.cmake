@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/animalTest.dir/Application.cpp.o"
+  "CMakeFiles/animalTest.dir/Application.cpp.o.d"
+  "CMakeFiles/animalTest.dir/Config.cpp.o"
+  "CMakeFiles/animalTest.dir/Config.cpp.o.d"
+  "CMakeFiles/animalTest.dir/Environment/Animal.cpp.o"
+  "CMakeFiles/animalTest.dir/Environment/Animal.cpp.o.d"
+  "CMakeFiles/animalTest.dir/Environment/Environment.cpp.o"
+  "CMakeFiles/animalTest.dir/Environment/Environment.cpp.o.d"
+  "CMakeFiles/animalTest.dir/Environment/Food.cpp.o"
+  "CMakeFiles/animalTest.dir/Environment/Food.cpp.o.d"
+  "CMakeFiles/animalTest.dir/Environment/FoodGenerator.cpp.o"
+  "CMakeFiles/animalTest.dir/Environment/FoodGenerator.cpp.o.d"
+  "CMakeFiles/animalTest.dir/Environment/Positionable.cpp.o"
+  "CMakeFiles/animalTest.dir/Environment/Positionable.cpp.o.d"
+  "CMakeFiles/animalTest.dir/Environment/ToricPosition.cpp.o"
+  "CMakeFiles/animalTest.dir/Environment/ToricPosition.cpp.o.d"
+  "CMakeFiles/animalTest.dir/JSON/JSON.cpp.o"
+  "CMakeFiles/animalTest.dir/JSON/JSON.cpp.o.d"
+  "CMakeFiles/animalTest.dir/JSON/JSONImpl.cpp.o"
+  "CMakeFiles/animalTest.dir/JSON/JSONImpl.cpp.o.d"
+  "CMakeFiles/animalTest.dir/JSON/JSONSerialiser.cpp.o"
+  "CMakeFiles/animalTest.dir/JSON/JSONSerialiser.cpp.o.d"
+  "CMakeFiles/animalTest.dir/Random/Random.cpp.o"
+  "CMakeFiles/animalTest.dir/Random/Random.cpp.o.d"
+  "CMakeFiles/animalTest.dir/Random/RandomGenerator.cpp.o"
+  "CMakeFiles/animalTest.dir/Random/RandomGenerator.cpp.o.d"
+  "CMakeFiles/animalTest.dir/Tests/GraphicalTests/AnimalTest.cpp.o"
+  "CMakeFiles/animalTest.dir/Tests/GraphicalTests/AnimalTest.cpp.o.d"
+  "CMakeFiles/animalTest.dir/Utility/Utility.cpp.o"
+  "CMakeFiles/animalTest.dir/Utility/Utility.cpp.o.d"
+  "CMakeFiles/animalTest.dir/Utility/Vec2d.cpp.o"
+  "CMakeFiles/animalTest.dir/Utility/Vec2d.cpp.o.d"
+  "animalTest"
+  "animalTest.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/animalTest.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
