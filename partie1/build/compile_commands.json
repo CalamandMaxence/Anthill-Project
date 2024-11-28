@@ -1,0 +1,197 @@
+[
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/positionableTest.dir/Tests/UnitTests/PositionableTest.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests/UnitTests/PositionableTest.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests/UnitTests/PositionableTest.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/positionableTest.dir/Application.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Application.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Application.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/positionableTest.dir/Config.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Config.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Config.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/positionableTest.dir/Environment/Positionable.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Environment/Positionable.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Environment/Positionable.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/positionableTest.dir/Environment/ToricPosition.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Environment/ToricPosition.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Environment/ToricPosition.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/positionableTest.dir/JSON/JSON.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSON.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSON.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/positionableTest.dir/JSON/JSONImpl.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSONImpl.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSONImpl.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/positionableTest.dir/JSON/JSONSerialiser.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSONSerialiser.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSONSerialiser.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/positionableTest.dir/Random/Random.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Random/Random.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Random/Random.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/positionableTest.dir/Random/RandomGenerator.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Random/RandomGenerator.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Random/RandomGenerator.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/positionableTest.dir/Utility/Utility.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Utility/Utility.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Utility/Utility.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/positionableTest.dir/Utility/Vec2d.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Utility/Vec2d.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Utility/Vec2d.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/positionableTest.dir/Tests/UnitTests/CatchTests.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests/UnitTests/CatchTests.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests/UnitTests/CatchTests.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/vec2dTest.dir/Tests/UnitTests/Vec2dTest.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests/UnitTests/Vec2dTest.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests/UnitTests/Vec2dTest.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/vec2dTest.dir/Application.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Application.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Application.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/vec2dTest.dir/Config.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Config.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Config.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/vec2dTest.dir/Environment/Positionable.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Environment/Positionable.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Environment/Positionable.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/vec2dTest.dir/Environment/ToricPosition.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Environment/ToricPosition.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Environment/ToricPosition.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/vec2dTest.dir/JSON/JSON.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSON.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSON.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/vec2dTest.dir/JSON/JSONImpl.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSONImpl.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSONImpl.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/vec2dTest.dir/JSON/JSONSerialiser.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSONSerialiser.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSONSerialiser.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/vec2dTest.dir/Random/Random.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Random/Random.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Random/Random.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/vec2dTest.dir/Random/RandomGenerator.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Random/RandomGenerator.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Random/RandomGenerator.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/vec2dTest.dir/Utility/Utility.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Utility/Utility.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Utility/Utility.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/vec2dTest.dir/Utility/Vec2d.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Utility/Vec2d.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Utility/Vec2d.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/vec2dTest.dir/Tests/UnitTests/CatchTests.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests/UnitTests/CatchTests.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests/UnitTests/CatchTests.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/toricTest.dir/Tests/UnitTests/ToricTest.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests/UnitTests/ToricTest.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests/UnitTests/ToricTest.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/toricTest.dir/Application.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Application.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Application.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/toricTest.dir/Config.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Config.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Config.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/toricTest.dir/Environment/Positionable.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Environment/Positionable.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Environment/Positionable.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/toricTest.dir/Environment/ToricPosition.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Environment/ToricPosition.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Environment/ToricPosition.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/toricTest.dir/JSON/JSON.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSON.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSON.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/toricTest.dir/JSON/JSONImpl.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSONImpl.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSONImpl.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/toricTest.dir/JSON/JSONSerialiser.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSONSerialiser.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/JSON/JSONSerialiser.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/toricTest.dir/Random/Random.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Random/Random.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Random/Random.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/toricTest.dir/Random/RandomGenerator.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Random/RandomGenerator.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Random/RandomGenerator.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/toricTest.dir/Utility/Utility.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Utility/Utility.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Utility/Utility.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/toricTest.dir/Utility/Vec2d.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Utility/Vec2d.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Utility/Vec2d.cpp"
+},
+{
+  "directory": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/../extlib/Catch/include -I/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests -isystem /usr/local/include -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/toricTest.dir/Tests/UnitTests/CatchTests.cpp.o -c /Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests/UnitTests/CatchTests.cpp",
+  "file": "/Users/maxcalamand/Documents/EPFL/BA2/Prog/Projet/partie1/src/Tests/UnitTests/CatchTests.cpp"
+}
+]
