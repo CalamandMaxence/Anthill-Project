@@ -1,0 +1,22 @@
+--------- Help ----------------
+CC : current control (in red)
+MW : mouse wheel
+
+Entity debug information:
+red     : health (HP)
+black   : carried food
+magenta : anthill Id
+-------------------------------
+Space	: toggle pause
+D	: toggle debug mode
+R	: resets simulation
+MW	: Zoom
+Esc	: close window
+C	: reload configuration
+Arrows	: move simulation
+	view
+Tab	: switch to next
+	control
+PageUp	: increase CC
+PageDown  : decrease CC
+M         : load map
